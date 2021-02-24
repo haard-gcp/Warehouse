@@ -1,0 +1,113 @@
+{
+    "products": [
+      {
+        "name": "Dining Chair",
+        "number": 10,
+        "contain_articles": [
+          {
+            "art_id": "1",
+            "amount_of": "4"
+          },
+          {
+            "art_id": "2",
+            "amount_of": "8"
+          },
+          {
+            "art_id": "3",
+            "amount_of": "1"
+          }
+        ]
+      },
+      {
+        "name": "2-seat sofa",
+        "number": 8,
+        "contain_articles": [
+          {
+            "art_id": "1",
+            "amount_of": "4"
+          },
+          {
+            "art_id": "2",
+            "amount_of": "8"
+          },
+          {
+            "art_id": "4",
+            "amount_of": "2"
+          }
+        ]
+      },
+      {
+        "name": "3-seat sofa",
+        "number": 10,
+        "contain_articles": [
+          {
+            "art_id": "1",
+            "amount_of": "4"
+          },
+          {
+            "art_id": "2",
+            "amount_of": "8"
+          },
+          {
+            "art_id": "4",
+            "amount_of": "3"
+          }
+        ]
+      },
+      {
+        "name": "bed",
+        "number": 10,
+        "contain_articles": [
+          {
+            "art_id": "1",
+            "amount_of": "4"
+          },
+          {
+            "art_id": "2",
+            "amount_of": "8"
+          },
+          {
+            "art_id": "4",
+            "amount_of": "1"
+          }
+        ]
+      },
+      {
+        "name": "cupboard",
+        "number": 10,
+        "contain_articles": [
+          {
+            "art_id": "1",
+            "amount_of": "4"
+          },
+          {
+            "art_id": "2",
+            "amount_of": "4"
+          },
+          {
+            "art_id": "4",
+            "amount_of": "1"
+          }
+        ]
+      },
+      {
+        "name": "Dinning Table",
+        "number": 6,
+        "contain_articles": [
+          {
+            "art_id": "1",
+            "amount_of": "4"
+          },
+          {
+            "art_id": "2",
+            "amount_of": "8"
+          },
+          {
+            "art_id": "4",
+            "amount_of": "1"
+          }
+        ]
+      }
+    ]
+  }
+  
