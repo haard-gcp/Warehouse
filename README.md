@@ -6,4 +6,4 @@ json files are loaded at deploytime and changes are also saved in the json files
 
 Frontend developed in React and Backend in Nodejs
 
-App deploed on GCP/App Engine
+App deployed on GCP/App Engine
